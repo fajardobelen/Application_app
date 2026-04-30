@@ -1,4 +1,4 @@
-# 📌Application_app
+# 📌Description
   This is my personal website that shows about me ,skills and projects.
 # 🚀Features
   - About me
