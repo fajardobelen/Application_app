@@ -90,5 +90,5 @@ with col1:
 
 with col2:
     st.markdown('<div class="img-glow">', unsafe_allow_html=True)
-    st.image("", width=250)
+    st.image("PORTFOLIO_APPCS3C/Fajardo Belen.png", width=250)
     st.markdown('</div>', unsafe_allow_html=True)
